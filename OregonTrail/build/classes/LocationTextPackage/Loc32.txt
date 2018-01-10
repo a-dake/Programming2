@@ -1,0 +1,15 @@
+Fort
+Fort Walla Walla
+You are now at Fort Walla Walla.
+33
+T
+T
+T
+T
+50
+25
+5
+25
+25
+25
+0.50

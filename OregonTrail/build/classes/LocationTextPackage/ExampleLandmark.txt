@@ -1,0 +1,8 @@
+Landmark
+Landmark Name 
+Description
+next Loc# based on excel (if fork then list first Loc# then on a new line list the second Loc#)
+safeRest (T/F)
+isPopulated (T/F)
+trade (T/F)
+buyGoods (T/F)

@@ -1,0 +1,10 @@
+River
+Columbia River
+You are at the Columbia River crossing. You must cross in order to continue on the trail.
+37
+F
+T
+T
+F
+10560
+55

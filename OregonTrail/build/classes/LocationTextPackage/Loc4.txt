@@ -1,0 +1,10 @@
+River
+Big Blue River
+You are now at the Big Blue River crossing.
+5
+F
+T
+T
+F
+228
+2.1

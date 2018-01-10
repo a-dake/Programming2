@@ -1,0 +1,15 @@
+Fort
+Fort Leramie
+You are now at Fort Laramie.
+11
+T
+T
+T
+T
+30
+15
+3
+15
+15
+15
+0.30

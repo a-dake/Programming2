@@ -1,0 +1,10 @@
+River
+Kansas River
+You are now at the Kansas River crossing.
+3
+F
+T
+T
+F
+615
+3

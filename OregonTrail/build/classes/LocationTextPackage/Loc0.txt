@@ -1,0 +1,16 @@
+City
+Independence
+It is 1848. Your jumping off place for Oregon is Independence, Missouri.
+1
+F
+T
+F
+T
+40
+0.20
+10
+2
+10
+10
+10
+F

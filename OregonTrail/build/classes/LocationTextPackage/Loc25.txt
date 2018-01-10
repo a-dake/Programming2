@@ -1,0 +1,10 @@
+River
+Snake River Crossing
+You are now at the Snake River crossing. You must cross the river to continue.
+26
+F
+T
+T
+F
+1000
+6

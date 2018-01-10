@@ -1,0 +1,15 @@
+City
+City Name 
+Description
+next Loc# based on excel 
+safeRest (T/F)
+isPopulated (T/F)
+trade (T/F)
+buyGoods (T/F)
+oxenPrice (double)
+foodPrice (double)
+clothesPrice (double)
+ammoPrice (double)
+sWheelPrice (double)
+sTounguePrice (double)
+sAxelPrice (double)

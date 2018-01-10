@@ -1,0 +1,15 @@
+Fort
+Fort Hall
+You are now at Fort Hall.
+24
+T
+T
+T
+T
+40
+20
+4
+20
+20
+20
+0.40
